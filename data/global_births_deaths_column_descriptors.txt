@@ -1,0 +1,8 @@
+Column Descriptors:
+Entity: Country or area name
+Code: Country or area code
+Year: Year of observation or projection (2024-2100)
+Deaths - Sex: all - Age: all - Variant: estimates: Historical death estimates
+Deaths - Sex: all - Age: all - Variant: medium: Projected deaths (medium scenario)
+Births - Sex: all - Age: all - Variant: estimates: Historical birth estimates
+Births - Sex: all - Age: all - Variant: medium: Projected births (medium scenario)
